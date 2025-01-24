@@ -1,4 +1,4 @@
-// Techatronic.com
+
 
 #include <Servo.h>
 Servo horizontal; // horizontal servo
